@@ -82,8 +82,8 @@ The simulator determines the winner based on overall efficiency:
 │  index.html (Structure)       │
 │  style.css  (Styling)         │
 │  script.js (Logic)            │
-│              │
-│  Fetch API (POST /run)
+│              │                │
+│  Fetch API (POST /run)        │
 └──────────────▼────────────────┘
                │
                ▼
@@ -98,7 +98,7 @@ The simulator determines the winner based on overall efficiency:
 └──────────────▼────────────────┘
                │
                ▼
-      JSON Response (Steps + Stats)
+  JSON Response (Steps + Stats)
                │
                ▼
 ┌───────────────────────────────┐
