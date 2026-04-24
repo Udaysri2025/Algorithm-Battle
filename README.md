@@ -18,6 +18,12 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [View Live Application](https://algorithm-battle.onrender.com/)
+
+---
+
 ## 📌 Project Overview
 
 **Algorithm Battle Simulator** is a web-based tool that allows two sorting algorithms to compete in real time on the same dataset.
